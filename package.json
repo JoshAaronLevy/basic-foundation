@@ -1,7 +1,7 @@
 {
   "name": "basic-foundation",
   "version": "1.0.0",
-  "description": "## Ideal For 1. Developers looking for the necessities to kickstart a responsive website, but without the bloat that comes with purchased templates and the libraries and many UI elements that are never used or needed. 2. Static websites developed heavily in HTML and CSS, with JS used rarely, and in its simplest form.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
