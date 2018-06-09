@@ -1,0 +1,26 @@
+{
+  "name": "basic-foundation",
+  "version": "1.0.0",
+  "description": "## Ideal For 1. Developers looking for the necessities to kickstart a responsive website, but without the bloat that comes with purchased templates and the libraries and many UI elements that are never used or needed. 2. Static websites developed heavily in HTML and CSS, with JS used rarely, and in its simplest form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshAaronLevy/basic-foundation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshAaronLevy/basic-foundation/issues"
+  },
+  "homepage": "https://github.com/JoshAaronLevy/basic-foundation#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "es6-promise": "^4.2.4",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "popper.js": "^1.14.3"
+  }
+}
